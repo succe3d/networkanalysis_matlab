@@ -36,7 +36,7 @@ Identify the appropriate column names corresponding to encryption, signal streng
 
 ### Step 6: Analyze Channel Usage
 
-Write computational code to calculate the number of networks using each channel and create a bar chart to show the distribution of networks across channels.
+Write computational [Code](https://github.com/succe3d/networkanalysis_matlab/blob/main/code.m) to calculate the number of networks using each channel and create a bar chart to show the distribution of networks across channels.
 
 ### Step 7: Analyze Signal Strength Distribution for Each Encryption Type
 
@@ -46,11 +46,11 @@ Plot a histogram showing the signal strength distribution for each encryption ty
 
 ### Step 8: Calculate and Display Statistics for Encryption Types
 
-Write computational code to calculate the percentage of networks using each encryption type and the average signal strength per encryption type. Then display the results in a table and plot a pie chart showing the proportion of networks with different encryption types.
+Write computational [Code](https://github.com/succe3d/networkanalysis_matlab/blob/main/code.m) to calculate the percentage of networks using each encryption type and the average signal strength per encryption type. Then display the results in a table and plot a pie chart showing the proportion of networks with different encryption types.
 
 ### Step 9: Analyze Bands, Modes, and Generations
 
-Write computational code to calculate the percentage of networks using each band, mode, and generation. Then display the results in separate tables for each attribute.
+Write computational [Code](https://github.com/succe3d/networkanalysis_matlab/blob/main/code.m) to calculate the percentage of networks using each band, mode, and generation. Then display the results in separate tables for each attribute.
 
 ### Step 10: Visualize the Distribution of Bands, Modes, and Generations
 
@@ -63,6 +63,6 @@ Create pie charts showing the proportion of networks with different bands and mo
 
 ### Step 11: Analyze the Distribution of Max Rates
 
-Create a histogram showing the distribution of Max Rates (Mbps) for the networks.
+Create a histogram showing the distribution of Max Rates (Mbps) for the networks using [Code](https://github.com/succe3d/networkanalysis_matlab/blob/main/code.m).
 
 <img width="269" alt="image" src="https://github.com/user-attachments/assets/c1d1c70b-67bb-4a9e-a7b4-d53217bc22fc">
